@@ -1,0 +1,11 @@
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.csproj.AssemblyReference.cache
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.AssemblyInfo.cs
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\bin\Debug\netstandard2.1\Nuclear_Fox.SmilingCritters.deps.json
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\bin\Debug\netstandard2.1\Nuclear_Fox.SmilingCritters.dll
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\Nuclear_Fox.SmilingCritters.dll
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\bin\Debug\netstandard2.1\LethalConfig.dll
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.csproj.CopyComplete
