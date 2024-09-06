@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\wesle\\source\\repos\\SmilingCritters\\SmilingCritters\\SmilingCritters.csproj": {
-      "version": "1.3.0",
+      "version": "2.1.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\wesle\\source\\repos\\SmilingCritters\\SmilingCritters\\SmilingCritters.csproj",
         "projectName": "Nuclear_Fox.SmilingCritters",
@@ -51,7 +51,7 @@
             "BepInEx.AssemblyPublicizer.MSBuild": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[0.4.1, )"
+              "version": "[0.4.2, )"
             },
             "BepInEx.Core": {
               "suppressParent": "All",
@@ -65,7 +65,7 @@
             },
             "Evaisa.LethalLib": {
               "target": "Package",
-              "version": "[0.15.1, )"
+              "version": "[0.16.1, )"
             },
             "LethalCompany.GameLibs.Steam": {
               "suppressParent": "All",

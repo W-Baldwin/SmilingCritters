@@ -44,19 +44,19 @@ namespace SmilingCritters
                     isInElevator = animatedItemReference.isInElevator;
                 }
 
-                // Randomize volume and pitch if needed
+                //randomize volume and pitch
                 float volume = UnityEngine.Random.Range(minLoudness, maxLoudness);
                 float pitch = UnityEngine.Random.Range(minPitch, maxPitch);
                 audioSource.pitch = pitch;
 
-                // Play the sound locally
+                //play the sound
                 audioSource.PlayOneShot(soundClip, volume);
 
-                // Make the noise audible globally via the network
+                //make the noise play for all and over walkie-talkies
                 WalkieTalkie.TransmitOneShotAudio(audioSource, soundClip, volume);
                 RoundManager.Instance.PlayAudibleNoise(transform.position, noiseRange, volume, 0, isInElevator && StartOfRound.Instance.hangarDoorsClosed);
 
-                // Affect game state
+                //enemies can hear loud items
                 if (minLoudness >= 0.6f && playerHeldBy != null)
                 {
                     playerHeldBy.timeSinceMakingLoudNoise = 0f;

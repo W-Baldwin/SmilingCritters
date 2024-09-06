@@ -5,7 +5,7 @@
       "BepInEx.Analyzers/1.0.8": {
         "type": "package"
       },
-      "BepInEx.AssemblyPublicizer.MSBuild/0.4.1": {
+      "BepInEx.AssemblyPublicizer.MSBuild/0.4.2": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/AsmResolver.DotNet.dll": {},
@@ -65,7 +65,7 @@
           "build/BepInEx.PluginInfoProps.props": {}
         }
       },
-      "Evaisa.LethalLib/0.15.1": {
+      "Evaisa.LethalLib/0.16.1": {
         "type": "package",
         "dependencies": {
           "BepInEx.Core": "5.4.21"
@@ -94,7 +94,7 @@
           }
         }
       },
-      "LethalCompany.GameLibs.Steam/50.0.1-ngd.0": {
+      "LethalCompany.GameLibs.Steam/60.0.0-ngd.0": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.JSON": "13.0.3",
@@ -765,14 +765,14 @@
         "tools/uninstall.ps1"
       ]
     },
-    "BepInEx.AssemblyPublicizer.MSBuild/0.4.1": {
-      "sha512": "bbTaXa0CKDuap0vDR+NkSz9crQIYhMvIbId9njUajYZAcr8OTuVcyiSlexzeGxfkYAbbn0z9YpgbIoeyHADXqA==",
+    "BepInEx.AssemblyPublicizer.MSBuild/0.4.2": {
+      "sha512": "AwGR6zOQxhWPWmcMdmhCaawC2qYdYHttkGmlXxyvhB1EIUAtuILEle8kKSkzElnbFGZjvw6iabpFi+AYUG4IuA==",
       "type": "package",
-      "path": "bepinex.assemblypublicizer.msbuild/0.4.1",
+      "path": "bepinex.assemblypublicizer.msbuild/0.4.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "bepinex.assemblypublicizer.msbuild.0.4.1.nupkg.sha512",
+        "bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512",
         "bepinex.assemblypublicizer.msbuild.nuspec",
         "build/BepInEx.AssemblyPublicizer.MSBuild.props",
         "contentFiles/cs/any/IgnoresAccessChecksToAttribute.cs",
@@ -830,15 +830,15 @@
         "build/BepInEx.PluginInfoProps.props"
       ]
     },
-    "Evaisa.LethalLib/0.15.1": {
-      "sha512": "QEJDkRrufYZpGOZ07TeNcftZTQVcc8nSmbjWos9rEccUDFGNrm3Fp46oGQPtk4QFQD4CHLxlLXmQVQUN0yT2Fw==",
+    "Evaisa.LethalLib/0.16.1": {
+      "sha512": "C54Db7b1s2UfNQUlAIdMqQKZ7csw0GWCvyastKfcT2ckpo94Zy47fTbXhUqTd6Bv5nqDsewqtJToccNMnm63Qg==",
       "type": "package",
-      "path": "evaisa.lethallib/0.15.1",
+      "path": "evaisa.lethallib/0.16.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "evaisa.lethallib.0.15.1.nupkg.sha512",
+        "evaisa.lethallib.0.16.1.nupkg.sha512",
         "evaisa.lethallib.nuspec",
         "lib/netstandard2.1/LethalLib.dll"
       ]
@@ -862,14 +862,14 @@
         "logo_mini.png"
       ]
     },
-    "LethalCompany.GameLibs.Steam/50.0.1-ngd.0": {
-      "sha512": "QMDEyc7ahSYyzUhq7mwx4QWAfZM/aNjOaZsK+AmM4KHRsostWjsWg28q04vTmDWf9IYW0KFGvLNjMiyjH3745Q==",
+    "LethalCompany.GameLibs.Steam/60.0.0-ngd.0": {
+      "sha512": "q7lt9lAhj7bEFji/FspiDRCiUygrD7QkGBoP/s01JW7BF0Cnaq8FgGye4K6EzwX7XdGRhYxKDTIHJJrazHovxw==",
       "type": "package",
-      "path": "lethalcompany.gamelibs.steam/50.0.1-ngd.0",
+      "path": "lethalcompany.gamelibs.steam/60.0.0-ngd.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lethalcompany.gamelibs.steam.50.0.1-ngd.0.nupkg.sha512",
+        "lethalcompany.gamelibs.steam.60.0.0-ngd.0.nupkg.sha512",
         "lethalcompany.gamelibs.steam.nuspec",
         "ref/netstandard2.1/AmazingAssets.TerrainToMesh.dll",
         "ref/netstandard2.1/Assembly-CSharp-firstpass.dll",
@@ -2944,10 +2944,10 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
       "BepInEx.Analyzers >= 1.*",
-      "BepInEx.AssemblyPublicizer.MSBuild >= 0.4.1",
+      "BepInEx.AssemblyPublicizer.MSBuild >= 0.4.2",
       "BepInEx.Core >= 5.*",
       "BepInEx.PluginInfoProps >= 2.*",
-      "Evaisa.LethalLib >= 0.15.1",
+      "Evaisa.LethalLib >= 0.16.1",
       "LethalCompany.GameLibs.Steam >= *-*",
       "UnityEngine.Modules >= 2022.3.9"
     ]
@@ -2956,7 +2956,7 @@
     "C:\\Users\\wesle\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.3.0",
+    "version": "2.1.2",
     "restore": {
       "projectUniqueName": "C:\\Users\\wesle\\source\\repos\\SmilingCritters\\SmilingCritters\\SmilingCritters.csproj",
       "projectName": "Nuclear_Fox.SmilingCritters",
@@ -3002,7 +3002,7 @@
           "BepInEx.AssemblyPublicizer.MSBuild": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[0.4.1, )"
+            "version": "[0.4.2, )"
           },
           "BepInEx.Core": {
             "suppressParent": "All",
@@ -3016,7 +3016,7 @@
           },
           "Evaisa.LethalLib": {
             "target": "Package",
-            "version": "[0.15.1, )"
+            "version": "[0.16.1, )"
           },
           "LethalCompany.GameLibs.Steam": {
             "suppressParent": "All",

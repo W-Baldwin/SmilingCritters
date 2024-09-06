@@ -9,3 +9,4 @@ C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\bin\Debug\netstandar
 C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\Nuclear_Fox.SmilingCritters.dll
 C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\bin\Debug\netstandard2.1\LethalConfig.dll
 C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.csproj.CopyComplete
+C:\Users\wesle\source\repos\SmilingCritters\SmilingCritters\obj\Debug\netstandard2.1\SmilingCritters.IgnoresAccessChecksTo.cs
